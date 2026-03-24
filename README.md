@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <h1>🌱 Smart Home Energy Management System</h1>
   <p><i>A full-stack, comprehensive web application designed to monitor, track, and optimize smart home energy consumption. Build with security, modern UI/UX, and performance in mind.</i></p>
@@ -321,3 +322,6 @@ For issues or questions, please create an issue in the project repository.
   <b>Built with ❤️ for a Greener Tomorrow.</b><br/>
   🚀⚡
 </div>
+=======
+# Smart-Home-Energy-Management-System
+>>>>>>> cf9472856048adca5f9357f56da3e42f85501a1c
