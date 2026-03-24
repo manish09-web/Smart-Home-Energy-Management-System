@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,6,10 &height=200&section=header&text=🌱%20Smart%20Home%20Energy%20Management&fontSize=36&fontColor=fff&animation=twinklig&fontAlignY=35&desc=Observe%20%7C%20Sustain%20%7C%20Regulate%20Your%20Energy&descAlignY=50&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,6,10&height=200&section=header&text=🌱%20Smart%20Home%20Energy%20Management&fontSize=36&fontColor=fff&animation=twinklig&fontAlignY=35&desc=Observe%20%7C%20Sustain%20%7C%20Regulate%20Your%20Energy&descAlignY=50&descSize=15" width="100%"/>
   <p><i>Empowering smarter energy decisions through real-time insights and intelligent analytics.</i></p>
 
   <!-- Badges -->
