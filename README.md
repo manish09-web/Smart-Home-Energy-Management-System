@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🌱 Smart Home Energy Management System</h1>
-  <p><i>A full-stack, comprehensive web application designed to monitor, track, and optimize smart home energy consumption. Build with security, modern UI/UX, and performance in mind.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,6,10&height=200&section=header&text=🌱%20Smart%20Home%20Energy%20Management&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Monitor%20%7C%20Automate%20%7C%20Optimize%20Your%20Energy&descAlignY=55&descSize=18" width="100%"/>
+  <p><i>Empowering smarter energy decisions through real-time insights and intelligent analytics.</i></p>
 
   <!-- Badges -->
   <p>
@@ -318,6 +318,7 @@ For issues or questions, please create an issue in the project repository.
 
 <hr/>
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,6,10&height=120&section=footer&animation=twinkling" width="100%"/>
   <b>Built with ❤️ for a Greener Tomorrow.</b><br/>
   🚀⚡
 </div>
