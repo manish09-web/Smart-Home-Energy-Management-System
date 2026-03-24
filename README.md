@@ -321,6 +321,3 @@ For issues or questions, please create an issue in the project repository.
   <b>Built with ❤️ for a Greener Tomorrow.</b><br/>
   🚀⚡
 </div>
-=======
-# Smart-Home-Energy-Management-System
->>>>>>> cf9472856048adca5f9357f56da3e42f85501a1c
