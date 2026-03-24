@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
   <h1>🌱 Smart Home Energy Management System</h1>
   <p><i>A full-stack, comprehensive web application designed to monitor, track, and optimize smart home energy consumption. Build with security, modern UI/UX, and performance in mind.</i></p>
