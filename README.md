@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,6,10&height=200&section=header&text=🌱%20Smart%20Home%20Energy%20Management&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Monitor%20%7C%20Automate%20%7C%20Optimize%20Your%20Energy&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,6,10 &height=200&section=header&text=🌱%20Smart%20Home%20Energy%20Management&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Observe%20%7C%20Sustain%20%7C%20Regulate%20Your%20Energy&descAlignY=50&descSize=15" width="100%"/>
   <p><i>Empowering smarter energy decisions through real-time insights and intelligent analytics.</i></p>
 
   <!-- Badges -->
@@ -318,7 +318,7 @@ For issues or questions, please create an issue in the project repository.
 
 <hr/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,6,10&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,6,10&height=120&section=footer&animation=fadeIn" width="100%"/>
   <b>Built with ❤️ for a Greener Tomorrow.</b><br/>
   🚀⚡
 </div>
